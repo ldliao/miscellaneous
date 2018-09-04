@@ -1,2 +1,2 @@
 # projects
-compilation of projects throughout UCSD
+miscellaneous finished projects throughout the years
